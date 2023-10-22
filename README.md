@@ -1,6 +1,6 @@
 # Sysmon Logs to Elastic Search (ELK) Integration
 
-![Elastic Search](https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Elastic_NV_logo.svg/220px-Elastic_NV_logo.svg.png)
+![Elastic Search](https://miro.medium.com/v2/resize:fit:640/format:webp/1*AYP0Mg_MwJMm3Kbx8Xa8lQ.png)
 ![Sysmon](https://i.postimg.cc/5yPVHtjR/Sysinternals-Suite-2018-Free-Download-17.jpg)
 ## Overview
 
