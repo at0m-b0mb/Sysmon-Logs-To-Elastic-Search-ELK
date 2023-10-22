@@ -1,7 +1,7 @@
 # Sysmon Logs to Elastic Search (ELK) Integration
 
-![Project Logo](link-to-your-project-logo.png) <!-- You can add a project logo if you have one -->
-
+![Elastic Search](https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Elastic_NV_logo.svg/220px-Elastic_NV_logo.svg.png)
+![Sysmon](https://i.postimg.cc/5yPVHtjR/Sysinternals-Suite-2018-Free-Download-17.jpg)
 ## Overview
 
 This project is a Security Information and Event Management (SIEM) and log analysis solution that uses Sysmon, Elasticsearch, Logstash, and Kibana to collect, store, process, and visualize Windows event logs. The primary objective is to enhance cybersecurity by detecting and responding to security threats, particularly at Vellore Institute of Technology.
